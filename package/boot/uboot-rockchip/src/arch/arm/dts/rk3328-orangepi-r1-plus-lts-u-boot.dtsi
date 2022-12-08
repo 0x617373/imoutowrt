@@ -1,1 +1,4 @@
 #include "rk3328-orangepi-r1-plus-u-boot.dtsi"
+
+-#include "rk3328-sdram-ddr4-666.dtsi"
+#include "rk3328-sdram-lpddr3-666.dtsi"
